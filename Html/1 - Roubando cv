@@ -1,0 +1,77 @@
+<!DOCTYPE html><html lang="pt-BR"><head><title>Gerador de currículo · Onlinecurriculo.com.br</title>
+<meta name="robots" content="noindex"><meta content="width=device-width, viewport-fit=cover" name="viewport" /><meta content="Onlinecurriculo.com.br" name="apple-mobile-web-app-title" /><meta content="yes" name="apple-mobile-web-app-capable" /><meta content="white" name="apple-mobile-web-app-status-bar-style" /><link href="/app/manifest.json" rel="manifest" /><link rel="icon" type="image/x-icon" href="/assets/favicon/resume/favicon-370eedaf612a0ee315e4f32878253e4e0f900ff318654809a96e9a06db77d1af.ico" sizes="any" /><link rel="icon" type="image/svg+xml" href="/assets/favicon/resume/favicon-ebca70e4713ae491d50ce36cecf86663d8cc6790d3938049d342cd49be90fa7f.svg" /><link rel="apple-touch-icon" type="image/x-icon" href="/assets/favicon/resume/apple-touch-icon-3ccd76658da45cd5fb1f5bd43cf8614fda9b56d1b24ba948331622539c83d219.png" />  <script>
+    dataLayer = [{"userId":45111396,"userEmail":"ryan.tupina@gmail.com","userEmailEnc":"ea451b77b98e9fa95b7b6dd5dcbf4de0a7d7d3aa","countryId":80,"countryHost":"onlinecurriculo.com.br","vanityABTestTag":"cta_homepage_redirection_locals:control consent_mode_banner_3:false","googleOptimizeExperiment":""}];
+
+    function gtag(){dataLayer.push(arguments);}
+
+          gtag('consent', 'default', {
+            'ad_storage': 'granted',
+            'analytics_storage': 'denied',
+            'ad_user_data': 'granted',
+            'ad_personalization': 'denied',
+          });
+
+          // Microsoft UET Mixed Consent
+          window.uetq = window.uetq || [];
+          window.uetq.push('consent', 'default', {
+            'ad_storage': 'granted',
+            'analytics_storage': 'denied',
+            'personalization_storage': 'denied',
+            'functional_storage': 'granted',
+            'security_storage': 'granted'
+          });
+
+        dataLayer.push({ event: 'AcceptCookies' });
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-52HV8L2');
+  </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Onlinecurriculo.com.br",
+  "url": "https://onlinecurriculo.com.br",
+  "logo": "https://s3.resume.io/uploads/country/logo_default/80/onlinecurriculo.br_black__3_.svg",
+  "description": "No Onlinecurriculo, acreditamos que construir um currículo digno do emprego deve ser um processo rápido e simples. Na verdade, sempre buscamos construir sistemas que sejam rápidos e fáceis de usar, mas que ao mesmo tempo proporcionem resultados satisfatórios. Nossa missão é ajudar os candidatos a emprego a desenvolverem suas carreiras. Adoramos ajudar as pessoas a se destacarem em sua busca por emprego e serem contratadas mais rapidamente."
+}
+</script>
+
+<!-- tvscientific universal -->
+<script src="/assets/js/builder-1cce93f283184ce8db56b98ca853562225c93a13c90b8f9fa347889e19228a89.js" defer="defer"></script><link rel="stylesheet" media="all" href="/assets/css/builder-1f34b9d03f09732be830ebe1fb70baa8749cb3a1afba8f15dff87367c5c6123d.css" /></head><body>    <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-52HV8L2"
+        height="0" width="0" style="display:none;visibility:hidden">
+      </iframe>
+    </noscript>
+ <div id="builder-application"></div>
+  <script>
+    !(function(e, t, n) {
+      function a() {
+        var e = t.getElementsByTagName("script")[0],
+          n = t.createElement("script");
+        (n.type = "text/javascript"),
+          (n.async = !0),
+          (n.src = "https://beacon-v2.helpscout.net"),
+          e.parentNode.insertBefore(n, e);
+      }
+      if (
+        ((e.Beacon = n = function(t, n, a) {
+          e.Beacon.readyQueue.push({ method: t, options: n, data: a });
+        }),
+        (n.readyQueue = []),
+        "complete" === t.readyState)
+      )
+        return a();
+      e.attachEvent
+        ? e.attachEvent("onload", a)
+        : e.addEventListener("load", a, !1);
+    })(window, document, window.Beacon || function() {});
+
+    Beacon("init", "2cac6561-2a77-4064-b5d2-8961ccae0186");
+
+    Beacon("identify", {"name":"Ryan Mota","email":"ryan.tupina@gmail.com"});
+  </script>
+</body></html>

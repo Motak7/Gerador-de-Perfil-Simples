@@ -1,0 +1,25 @@
+alert("Boas vindas ao nosso site!");
+
+// 1. Removi os parênteses desnecessários nas strings
+let nome = "Lua";
+let idade = 25; 
+let numeroDeVendas = 50;
+let saldoDisponivel = 1000;
+
+// 2. Removi a declaração redundante
+alert("Erro! Preencha todos os campos"); 
+
+// 3. Variável corrigida
+let mensagemDeErro = "Erro! Preencha todos os campos";
+alert(mensagemDeErro);
+
+// 4. Removi o 'let' para não redeclarar as variáveis
+nome = prompt("Qual seu nome: ");
+idade = prompt("Qual sua idade: ");
+
+// 5. Corrigi a estrutura do if e conversão de tipo
+if (parseInt(idade) >= 18) {  // Convertemos para número
+    alert("Pode tirar a habilitação!");
+} else {
+    alert("Não pode tirar habilitação!");
+}
